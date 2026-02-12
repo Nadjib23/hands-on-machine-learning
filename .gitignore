@@ -1,0 +1,8 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode / notebooks
+.virtual_documents/
+
+# Conda / local env data
+anaconda_projects/
